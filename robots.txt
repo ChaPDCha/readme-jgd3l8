@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ChaPDCha.github.io/readme-jgd3l8/sitemap.xml
